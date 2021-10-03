@@ -1,5 +1,5 @@
 ﻿function getIP {
-        (Get-NetIPAddress).IPv4Address | Select-String "192"
+        (Get-NetIPAddress).IPv4Address | Select-String "192*"
         }
 $IP = getIP
 $User = $env:USERNAME
