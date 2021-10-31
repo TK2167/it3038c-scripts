@@ -1,0 +1,1 @@
+Project 2 is a Countdown timer that when started creates a timer that will count down. I have made the timer be for 1 minute but it can be set how ever long is needed.
