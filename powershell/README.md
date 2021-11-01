@@ -1,0 +1,2 @@
+Project 2 is a Countdown timer that when started creates a timer that will count down. If you would like to stop the timer before the amount selected then you must click on the stop button. I have made the timer be for 1 minute but it can be set how ever long is needed. 
+I used this https://www.red-gate.com/simple-talk/sysadmin/powershell/building-a-countdown-timer-with-powershell/ to help me create the Timer.
