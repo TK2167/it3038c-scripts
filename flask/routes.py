@@ -6,7 +6,7 @@ app.config.from_object(__name__)
 @app.route('/') 
 
 def hello(): 
-  #myName = 'AJ' 
+  #myName = 'Tigran' 
    return render_template("index.html")  
    #, name=myName) 
 
